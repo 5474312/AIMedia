@@ -227,4 +227,4 @@ B站视频链接：https://www.bilibili.com/video/BV1Xkw1zMEP7
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Anning01/AIMedia&type=Date)](https://star-history.com/#Anning01/AIMedia&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Anning01/AIMedia&type=Date)](https://star-history.dera.page/#Anning01/AIMedia&Date)
